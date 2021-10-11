@@ -1,3 +1,4 @@
+echo "test"
 #!/bin/bash
 restart=y
 while [ $restart == "y" ]
