@@ -1,0 +1,9 @@
+# Vul in eigen woorden aan wat de commando, die hieronder staan, doen:
+
+#git status = status van de huidige directory
+#git init = maakt een nieuwe git repo aan
+#git diff = 2 branches met elkaar vergelijken
+#git reset = reset bestand waar fouten in gemaakt zijn die nog niet gecommit zijn	
+#git rm = bestand of repo verwijderen
+#git log = geeft een lijst van changes aan een repo of bestandz
+#git stash = zet gewijzigde bestanden tijdelijk aan de kant om ergens anders verder te kunnen
